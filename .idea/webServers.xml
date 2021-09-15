@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="b66fc425-2bfa-4fd7-b5ac-bd765e4f127b" name="Localhost" url="http://localhost:6000">
+        <fileTransfer mountedRoot="C:\Users\mom2p\Sync\QuotesWebApp" accessType="MOUNT" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>
